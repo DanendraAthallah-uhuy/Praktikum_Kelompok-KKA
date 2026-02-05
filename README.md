@@ -26,5 +26,5 @@ Object Oriented Programming (OOP) dengan bahasa Python.
 1. Pastikan Python sudah terinstall
 2. Jalankan file:
    ```bash
-   python main.py
+   kelompok.py
 
